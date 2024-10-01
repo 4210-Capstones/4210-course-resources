@@ -6,12 +6,12 @@ This repository contains all the necessary materials for the CSCI 4210: Introduc
 
 ### Repository Structure
 
-| **Folder** | **Description** |
-|------------|-----------------|
-| **Capstone/** | Contains documents related to the Capstone project for the course. Currently includes `4210_Capstone_Cycle_0.pdf`: Details the Cycle 0 requirements analysis and roadmapping for the Capstone project. |
-| **Student-Workshops/** | Contains two documents: **Tech Workshops Development Instructions** - A guide with instructions and rubric for developing and delivering a tech workshop as part of Project 1, and **Workshop Certification Series Instructions** - A guide with instructions and rubric for completing the tech workshops delivered by peers as part of Project 2. |
-| **Lectures/** | Contains PDF slides from the lectures presented throughout the course: `MSE-Chapter-01.pdf`, `MSE-Chapter-02.pdf`, `MSE-Chapter-03.pdf`. |
-| **Syllabus/** | Contains the syllabus for the course, including the course objectives, expected outcomes, grading policies, and learning objectives. [View the Syllabus here](./4210_Syllabus.pdf). |
+| **Folder**              | **Description**                                                                                                                  |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Capstone/**           | Contains documents related to the Capstone project for the course. Currently includes `4210_Capstone_Cycle_0.pdf`: Details the Cycle 0 requirements analysis and roadmapping for the Capstone project. |
+| **Student-Workshops/**  | Contains two documents: <br> 1. **Tech Workshops Development Instructions** - A guide with instructions and a rubric for developing and delivering a tech workshop as part of Project 1. <br> 2. **Workshop Certification Series Instructions** - A guide with instructions and a rubric for completing the tech workshops delivered by peers as part of Project 2. |
+| **Lectures/**           | Contains PDF slides from the lectures presented throughout the course: `MSE-Chapter-01.pdf`, `MSE-Chapter-02.pdf`, `MSE-Chapter-03.pdf`. |
+| **Syllabus/**           | Contains the syllabus for the course, including the course objectives, expected outcomes, grading policies, and learning objectives. [View the Syllabus here](./4210_Syllabus.pdf). |
 
 ---
 
